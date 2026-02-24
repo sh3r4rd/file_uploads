@@ -1,0 +1,67 @@
+lambdas/internal/validation/doc.go
+  165bb4e03ee2e4b4 1
+lambdas/cmd/confirm-upload/main.go
+  165bb4e03ee2e4b4 1-16
+lambdas/internal/handler/doc.go
+  165bb4e03ee2e4b4 1
+infra/variables.tf
+  165bb4e03ee2e4b4 1-17
+infra/lambda.tf
+  165bb4e03ee2e4b4 1-7
+infra/apigateway.tf
+  165bb4e03ee2e4b4 1-8
+lambdas/internal/port/doc.go
+  165bb4e03ee2e4b4 1
+lambdas/internal/model/doc.go
+  165bb4e03ee2e4b4 1
+infra/dynamodb.tf
+  165bb4e03ee2e4b4 1-7
+README.md
+  165bb4e03ee2e4b4 1-87
+Makefile
+  165bb4e03ee2e4b4 1-26
+scripts/deploy.sh
+  165bb4e03ee2e4b4 1-6
+infra/outputs.tf
+  165bb4e03ee2e4b4 1-11
+infra/providers.tf
+  165bb4e03ee2e4b4 1-16
+lambdas/cmd/request-upload/main.go
+  165bb4e03ee2e4b4 1-19
+infra/s3.tf
+  165bb4e03ee2e4b4 1-9
+infra/main.tf
+  165bb4e03ee2e4b4 1-10
+scripts/build.sh
+  165bb4e03ee2e4b4 1-6
+infra/terraform.tfvars.example
+  165bb4e03ee2e4b4 1-3
+infra/sqs.tf
+  165bb4e03ee2e4b4 1-6
+.gitignore
+  165bb4e03ee2e4b4 1,3-30
+lambdas/internal/storage/doc.go
+  165bb4e03ee2e4b4 1
+infra/iam.tf
+  165bb4e03ee2e4b4 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "52b616334b30d3d18e7f85cfce664a7f5067c49d",
+  "prompts": {
+    "165bb4e03ee2e4b4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d6b0945-aee0-42fa-b700-7a851e2d3837",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Sherard Bailey <sbailey@gobloominghealth.com>",
+      "messages": [],
+      "total_additions": 294,
+      "total_deletions": 0,
+      "accepted_lines": 294,
+      "overriden_lines": 0
+    }
+  }
+}
