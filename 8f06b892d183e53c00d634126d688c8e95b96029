@@ -1,0 +1,23 @@
+.github/workflows/copilot-setup-steps.yml
+  b8a4b83447a6234e 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.4",
+  "base_commit_sha": "8f06b892d183e53c00d634126d688c8e95b96029",
+  "prompts": {
+    "b8a4b83447a6234e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bb2e9000-098e-41b3-865d-43b5c57cd3f5",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Sherard Bailey <sbailey@gobloominghealth.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
