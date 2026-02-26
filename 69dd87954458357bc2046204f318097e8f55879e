@@ -1,0 +1,33 @@
+lambdas/internal/model/metadata.go
+  8f482617ff431bf2 1-22
+lambdas/internal/model/request.go
+  8f482617ff431bf2 1-8
+lambdas/internal/model/doc.go
+  8f482617ff431bf2 1-2
+lambdas/internal/model/model_test.go
+  8f482617ff431bf2 1-223
+lambdas/internal/model/response.go
+  8f482617ff431bf2 1-14
+lambdas/internal/model/constraints.go
+  8f482617ff431bf2 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.5",
+  "base_commit_sha": "69dd87954458357bc2046204f318097e8f55879e",
+  "prompts": {
+    "8f482617ff431bf2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ad5b1d6e-88f0-4301-adfd-31275c6e54f9",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Sherard Bailey <sbailey@gobloominghealth.com>",
+      "messages": [],
+      "total_additions": 277,
+      "total_deletions": 0,
+      "accepted_lines": 277,
+      "overriden_lines": 0
+    }
+  }
+}
